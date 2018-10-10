@@ -56,7 +56,7 @@ This can only be done in Group Policy.
 
 3.  In the **Group Policy Management Editor** go to **Computer configuration** and click **Administrative templates**.
 
-5.  Expand the tree to **Windows components > Windows Security > Enterprise Customization**.
+5.  Expand the tree to **Windows components > Windows Defender Security Center > Enterprise Customization**.
 
 6.  You enable the contact card and the customized notifications by configuring two separate Group Policy settings. They will both use the same source of information (explained in Steps 7 and 8), and you can enable both or only one or the other: 
 
