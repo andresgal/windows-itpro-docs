@@ -42,7 +42,7 @@ Before you begin this process, you need to create a WDAC policy binary file. If 
 
     > - You might have noticed that the GPO setting references a .p7b file and this policy uses a .bin file. Regardless of the type of policy you deploy (.bin, .p7b, or .p7), they are all converted to SIPolicy.p7b when dropped onto the computers running Windows 10. We recommend that you make your WDAC policy names friendly and allow the system to convert the policy names for you. By doing this, it ensures that the policies are easily distinguishable when viewed in a share or any other central repository.
 
-   ![Group Policy called Deploy Windows Defender Application Control](images/dg-fig22-deploycode.png)
+   ![Group Policy called Deploy Windows Defender Application Control](https://github.com/andresgal/WDAC/blob/master/dg-fig22-deploycode_1.png)
 
    Figure 1. Deploy your Windows Defender Application Control policy
 
